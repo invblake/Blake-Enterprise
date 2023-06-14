@@ -1,0 +1,6 @@
+NEw options:
+- Scraping from Groups using ID
+- Extracting members using USer name and ID
+- Fast Scraping than V1.x
+- Exporting All results to CSV and Text Files
+
